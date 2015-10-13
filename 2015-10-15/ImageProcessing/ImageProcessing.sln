@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ImageProcessing", "ImageProcessing.fsproj", "{EEE265AC-D78E-4660-A3D0-F109CC2AC195}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{99923E11-07E8-4EF0-90F7-FB9E8757FB70}"
+	ProjectSection(SolutionItems) = preProject
+		..\Samples\excel.jpg = ..\Samples\excel.jpg
+		..\Samples\level-straight.jpg = ..\Samples\level-straight.jpg
+		..\Samples\level.jpg = ..\Samples\level.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE265AC-D78E-4660-A3D0-F109CC2AC195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE265AC-D78E-4660-A3D0-F109CC2AC195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE265AC-D78E-4660-A3D0-F109CC2AC195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE265AC-D78E-4660-A3D0-F109CC2AC195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
