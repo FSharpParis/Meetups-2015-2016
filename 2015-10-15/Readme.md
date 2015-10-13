@@ -12,15 +12,15 @@ We would need to process input messages in order to
 
 So if I give you the following input:
 
-![An optimized level](../Explanations/optimized-level.jpg)
+![An optimized level](Explanations/optimized-level.jpg)
 
 The goal is to detect lines and intersections in the image:
 
-![Lines in the image](../Explanations/lines.jpg)
+![Lines in the image](Explanations/lines.jpg)
 
 And then be able to determine the tiles boundaries:
 
-![Tiles in the image](../Explanations/tiles.jpg)
+![Tiles in the image](Explanations/tiles.jpg)
 
 ## Useful tools
 
@@ -34,10 +34,10 @@ For this image processing pipe to be really usable, we would probably need to ad
 
 i.e. transform this
 
-![A sample level](../Explanations/sample-level.jpg)
+![A sample level](Explanations/sample-level.jpg)
 
 into this
 
-![An optimized level](../Explanations/optimized-level.jpg)
+![An optimized level](Explanations/optimized-level.jpg)
 
 In order to do this, you might need external libraries... or write your own code :)

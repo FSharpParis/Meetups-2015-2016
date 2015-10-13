@@ -12,6 +12,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{9992
 		..\Samples\level.jpg = ..\Samples\level.jpg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Explanations", "Explanations", "{CA9D4FC8-BEED-4266-988C-C127CA6C7BD6}"
+	ProjectSection(SolutionItems) = preProject
+		..\Explanations\lines.jpg = ..\Explanations\lines.jpg
+		..\Explanations\optimized-level.jpg = ..\Explanations\optimized-level.jpg
+		..\Readme.md = ..\Readme.md
+		..\Explanations\sample-level.jpg = ..\Explanations\sample-level.jpg
+		..\Explanations\tiles.jpg = ..\Explanations\tiles.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
