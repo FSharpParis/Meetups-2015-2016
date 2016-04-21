@@ -23,10 +23,10 @@ let sample =
                 [
                     Paragraph(
                         Text [
-                            TextPart.Regular "Regular,"
-                            TextPart.Medium "Medium"
+                            TextPart.Regular "Regular, "
+                            TextPart.Medium "Medium "
                             TextPart.Strong "and Strong"
-                            TextPart.Regular "in the same paragraph."
+                            TextPart.Regular " in the same paragraph."
                         ])
                 ] |> Section.FromParts }
             {
